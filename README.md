@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/{{tarunjoshi730}}/achievements?format=svg&limit=3" width="350" />
+</p>
 <!--
 **tarunjoshi730/tarunjoshi730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
